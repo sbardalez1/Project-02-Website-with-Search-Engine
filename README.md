@@ -4,10 +4,7 @@ Overview/description of the project: The main purpose of this project is to crea
 
 Technologies Used : Bootstrap, CSS, Javascript, and jQuery.
 
-Ideas for future improvement : 
-- Could use better CSS
-- Could use better Bootstrap
-- Could use a better gif
+To view the website go to: https://sbardalez1.github.io/Project-02-Website-with-Search-Engine/
 
 
 
